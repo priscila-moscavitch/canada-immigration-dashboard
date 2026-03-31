@@ -26,7 +26,11 @@ This project represents the intersection between my lived experience and my tran
 - Python  
 - Pandas  
 - Plotly Express  
-- Streamlit  
+- Streamlit
+
+## Repository
+
+[View on GitHub](https://github.com/seu-usuario/canada-immigration-dashboard)
 
 ## Live App
 
