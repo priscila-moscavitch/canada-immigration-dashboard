@@ -23,4 +23,4 @@ This project combines my learning journey in data analytics with a topic that is
 
 ## Live App
 
-[Add your Render link here]
+[https://canada-immigration-dashboard.onrender.com]
