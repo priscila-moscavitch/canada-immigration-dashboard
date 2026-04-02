@@ -30,7 +30,7 @@ This project represents the intersection between my lived experience and my tran
 
 ## Repository
 
-[View on GitHub](https://github.com/seu-usuario/canada-immigration-dashboard)
+[View on GitHub](https://github.com/priscila-moscavitch/canada-immigration-dashboard)
 
 ## Live App
 
